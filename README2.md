@@ -1,5 +1,6 @@
 # How to create a file using the terminal.
-![alt text](image.png)
+![picture of a mac with terminal open](/Users/edwardramos/Downloads/goran-ivos-T8LMIN09-mo-unsplash.jpg)
+
 
 Creating a file using the terminal is a fundamental skill that can speed up your workflow. Whether you want to work on a remote server or just prefer the command line, this guide will guide you through the process.
 
